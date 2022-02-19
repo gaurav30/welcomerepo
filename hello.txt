@@ -1,1 +1,6 @@
-This is my new text file
+This is my text file
+This is new line
+
+
+
+This is another new line
